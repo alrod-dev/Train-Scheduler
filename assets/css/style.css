@@ -1,0 +1,64 @@
+/*
+    Global Page Settings
+ */
+
+.container-fluid {
+    width: 85%;
+}
+
+/*Sets the background images to the body*/
+body {
+    background: url("../images/trainBackground.png");
+
+    /* Center and scale the image nicely */
+    background-size: cover;
+
+    font-family: "Times New Roman";
+}
+
+#jumboTron {
+    margin-top: 2%;
+
+}
+
+#jumboTron h1 {
+
+    font-family: "Times New Roman";
+
+    font-weight: bold;
+
+}
+
+.panel-title {
+
+    font-weight: bold;
+
+}
+
+#addNewTrain, #currentTrain, #recentTrainAdded {
+    overflow: hidden;
+
+    background-color: #c2c8cc;
+
+}
+
+.panel-primary>.panel-heading, .panel-primary {
+
+    background-color: #7f8488;
+    border-color: #7f8488;
+}
+
+
+.display-2 {
+    font-family: TypographyBold;
+
+    font-size: 40px;
+}
+
+.display-3, .display-4 {
+    font-size: 20px;
+}
+
+th {
+    font-weight: bold;
+}
