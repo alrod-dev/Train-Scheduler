@@ -10,6 +10,13 @@
     <img src="assets/images/mainPage.png" width="100%">
 </p>
 
+<h2>Firebase Data<h2>
+
+<p style="text-align: center">
+    <img src="assets/images/firebase.png" width="100%">
+</p>
+
+
 <h3>Technologies used</h3>
 
 <ul>
